@@ -5,7 +5,7 @@ Efficient binary encoding for tensors. The format is supported by
 
 The reference implemention developed in Python by [tmbdev](https://github.com/tmbdev) at Nvidia can be found [here](https://github.com/tmbdev/webdataset/blob/master/webdataset/tenbin.py)
 
-`ten` uses Go modules and can be installed by running:
+## Installation
 
 ```
 go get github.com/AlexanderEkdahl/ten
